@@ -1,0 +1,12 @@
+# Каталог публикации, собирается в CI
+/_site/
+
+# Локальные настройки Claude Code
+/.claude/
+
+# OS / редакторы
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
