@@ -22,7 +22,7 @@
   5. пишет результат в index.html в корне;
   6. при заданном DOMAIN пишет файл CNAME (для кастомного домена GitHub Pages)
      и использует https://DOMAIN как канонический origin; иначе берёт
-     https://pyramidheadshark.github.io/pyramidheadshark_portfolio.
+     https://pyramidheadshark.github.io.
 """
 from __future__ import annotations
 
@@ -40,7 +40,7 @@ SITE_DESCRIPTION = (
 SITE_AUTHOR = "Никита Смирнов"
 THEME_COLOR = "#0D1117"
 OG_IMAGE_FILE = "og-image.png"  # лежит рядом с index.html, деплоится вместе
-DEFAULT_ORIGIN = "https://pyramidheadshark.github.io/pyramidheadshark_portfolio"
+DEFAULT_ORIGIN = "https://pyramidheadshark.github.io"
 
 START = "<!-- dc-inject:start -->"
 END = "<!-- dc-inject:end -->"

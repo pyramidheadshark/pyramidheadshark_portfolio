@@ -1,11 +1,11 @@
 # Портфолио · Никита Смирнов
 
-[![Deploy to GitHub Pages](https://github.com/pyramidheadshark/pyramidheadshark_portfolio/actions/workflows/deploy.yml/badge.svg)](https://github.com/pyramidheadshark/pyramidheadshark_portfolio/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/pyramidheadshark/pyramidheadshark.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/pyramidheadshark/pyramidheadshark.github.io/actions/workflows/deploy.yml)
 
 Персональный сайт-портфолио ML-инженера. Спроектирован в Claude Design,
 публикуется на GitHub Pages автоматически при каждом пуше в `main`.
 
-🔗 **Живой сайт:** https://pyramidheadshark.github.io/pyramidheadshark_portfolio/
+🔗 **Живой сайт:** https://pyramidheadshark.github.io/
 
 ---
 
